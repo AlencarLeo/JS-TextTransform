@@ -1,6 +1,6 @@
 <p align="center">
   <img width=20px src="readme/attencion.svg">
-  <b>ON PROGRESS...</b>
+  <b>MORE FUNCTIONS COMING SOON...</b>
   <img width=20px src="readme/attencion.svg">
 </p>
 <br>
